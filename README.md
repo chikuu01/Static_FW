@@ -1,5 +1,4 @@
 This project is created to execute all api's by using rest assured below are the given features
-
 Features-
          1-This project is capable to generate the individuals report by using static driver class 
 	       >Rest-POST,PATCH,PUT
